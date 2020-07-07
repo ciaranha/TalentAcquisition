@@ -1,3 +1,18 @@
 @tailwind base;
+
+h1 {
+  @apply text-4xl font-bold;
+}
+h2 {
+  @apply text-xl;
+}
+h3 {
+  @apply text-lg;
+}
+
+a {
+  @apply text-teal-500;
+}
+
 @tailwind components;
 @tailwind utilities;
