@@ -16,20 +16,21 @@ h6 {
   @apply uppercase text-sm text-gray-500;
 }
 
-
-
 a {
   @apply text-teal-500;
 }
 
 @tailwind components;
+.container {
+  max-width: 980px;
+}
+
+.container-wide {
+  max-width: 1180px;
+}
 
 .container-narrow {
   max-width: 726px;
-}
-
-.container {
-  max-width: 980px;
 }
 
 .primary {
@@ -37,6 +38,10 @@ a {
 }
 
 .secondary {
+  @apply bg-gray-400 text-black px-5 py-3 rounded;
+}
+
+.tertiary {
   @apply bg-gray-100 text-black px-5 py-3 rounded;
 }
 

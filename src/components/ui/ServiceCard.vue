@@ -1,7 +1,18 @@
 <template>
-  <div class="camera">
-    <h2 class="camera__name">{{ name }}</h2>
-    <img :src="img" />
+  <div class="service-card rounded bg-white p-5">
+    <div class="flex items-center">
+      <div class="rounded-full p-2">
+        <img :src="image" />
+      </div>
+      <p class="ml-3">
+        <strong>
+          {{ title }}
+        </strong>
+      </p>
+    </div>
+    <p class="text-gray-700 mt-2">
+      {{ body }}
+    </p>
   </div>
 </template>
 
@@ -9,10 +20,13 @@
 export default {
   name: 'ServiceCard',
   props: {
-    name: {
+    title: {
       type: String,
     },
-    img: {
+    body: {
+      type: String,
+    },
+    image: {
       type: String,
     }
   }

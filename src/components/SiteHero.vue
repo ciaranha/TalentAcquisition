@@ -9,7 +9,7 @@
     </p>
 
     <AppButton class="mt-12 primary" msg="Get Started"/>
-    <AppButton class="mt-12 ml-2 secondary" msg="Schedule a demo" />
+    <AppButton class="mt-12 ml-2 tertiary" msg="Schedule a demo" />
   </div>
 </template>
 

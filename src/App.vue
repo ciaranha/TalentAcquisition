@@ -6,6 +6,7 @@
     <WhySection />
     <HowSection />
     <StarterServices />
+    <ScaleServices />
   </div>
 </template>
 
@@ -16,6 +17,7 @@ import ImageGallery from './components/ImageGallery.vue'
 import WhySection from './components/WhySection.vue'
 import HowSection from './components/HowSection.vue'
 import StarterServices from './components/StarterServices.vue'
+import ScaleServices from './components/ScaleServices.vue'
 
 export default {
   name: 'App',
@@ -25,7 +27,8 @@ export default {
     ImageGallery,
     WhySection,
     HowSection,
-    StarterServices
+    StarterServices,
+    ScaleServices
   }
 }
 </script>
