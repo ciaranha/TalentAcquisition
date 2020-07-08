@@ -1,7 +1,7 @@
 <template>
   <div class="service-card rounded bg-white p-5">
     <div class="flex items-center">
-      <div class="rounded-full p-2">
+      <div class="bg-gray-100 rounded-full p-2">
         <img :src="image" />
       </div>
       <p class="ml-3">

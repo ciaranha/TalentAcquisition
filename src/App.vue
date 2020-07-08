@@ -7,6 +7,8 @@
     <HowSection />
     <StarterServices />
     <ScaleServices />
+    <ImageBanner />
+    <SiteFooter />
   </div>
 </template>
 
@@ -18,6 +20,8 @@ import WhySection from './components/WhySection.vue'
 import HowSection from './components/HowSection.vue'
 import StarterServices from './components/StarterServices.vue'
 import ScaleServices from './components/ScaleServices.vue'
+import ImageBanner from './components/ImageBanner.vue'
+import SiteFooter from './components/SiteFooter.vue'
 
 export default {
   name: 'App',
@@ -28,7 +32,9 @@ export default {
     WhySection,
     HowSection,
     StarterServices,
-    ScaleServices
+    ScaleServices,
+    ImageBanner,
+    SiteFooter
   }
 }
 </script>

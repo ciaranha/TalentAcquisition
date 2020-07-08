@@ -27,10 +27,14 @@ a {
 
 .container-wide {
   max-width: 1180px;
+  padding-right: 1rem;
+  padding-left: 1rem;
 }
 
 .container-narrow {
   max-width: 726px;
+  padding-right: 1rem;
+  padding-left: 1rem;
 }
 
 .primary {
