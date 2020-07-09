@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="grid sm:grid-cols-1 lg:grid-cols-4 gap-4 mt-20 mb-20">
+    <div class="grid sm:grid-cols-1 lg:grid-cols-4 gap-4 mt-20 mb-32">
 
       <div>
         <img src="@/assets/images/talent-acquisition-logo.svg"/>
@@ -10,35 +10,30 @@
       </div>
 
       <div>
-        <h6 class="mb-4">Sitemap</h6>
+        <h6 class="ml-2 mb-4 pb-2 border-b-2 border-gray-100">Sitemap</h6>
         <ul>
-          <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-          <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-          <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-          <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-          <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
+          <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="" target="_blank" rel="noopener">Why us</a></li>
+          <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="" target="_blank" rel="noopener">How it works</a></li>
+          <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="" target="_blank" rel="noopener">Services</a></li>
         </ul>
       </div>
 
       <div>
-        <h6 class="mb-4">Company</h6>
+        <h6 class="ml-2 mb-4 pb-2 border-b-2 border-gray-100">Company</h6>
         <ul>
-          <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-          <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-          <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-          <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-          <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
+          <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="/about" target="_blank" rel="noopener">About</a></li>
+          <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="" target="_blank" rel="noopener">Contact us</a></li>
+          <li>
+            <a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="" target="_blank" rel="noopener">
+              Terms &amp; Privacy
+            </a>
+          </li>
         </ul>
       </div>
 
       <div>
-        <h6 class="mb-4">Follow</h6>
+        <h6 class="ml-2 mb-4 pb-2 border-b-2 border-gray-100">Follow</h6>
         <ul>
-          <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-          <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-          <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-          <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-          <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
         </ul>
       </div>
 

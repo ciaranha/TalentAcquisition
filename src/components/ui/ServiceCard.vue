@@ -1,5 +1,5 @@
 <template>
-  <div class="service-card rounded bg-white p-5">
+  <div class="service-card rounded-md p-5">
     <div class="flex items-center">
       <div class="bg-gray-100 rounded-full p-2">
         <img :src="image" />

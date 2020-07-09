@@ -1,12 +1,13 @@
 <template>
   <div class="bg-white">
 
-    <div class="pt-20 pb-20 container-wide mx-auto">
+    <div class="pt-24 pb-24 container-wide mx-auto">
       <h6>
-        —  Starter Package
+        —  Room to grow
       </h6>
-      <h2>
-        Everything you need for a fixed fee.
+
+      <h2 class="mt-4 max-w-screen-sm">
+        Additional services for when you need to scale up your talent acquisition.
       </h2>
 
       <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4 mt-10">
@@ -50,15 +51,15 @@
       </div>
     </div>
 
-    <div class="text-center pb-20">
+    <div class="text-center pb-24">
       <h3>
         Chat with us today
       </h3>
-      <h4 class="text-gray-500">
+      <h4 class="text-gray-600">
         We can setup a call to discuss your talent acquisition needs.
       </h4>
 
-      <AppButton class="mt-12 secondary" msg="See Pricing"/>
+      <AppButton class="mt-10 secondary" msg="Schedule a Call"/>
     </div>
 
   </div>

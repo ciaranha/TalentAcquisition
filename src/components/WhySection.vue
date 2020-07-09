@@ -1,12 +1,12 @@
 <template>
-  <div class="bg-gray-100">
-    <div class="pt-20 pb-20 container">
+  <div class="bg-gray-100 -my-20">
+    <div class="pt-48 pb-20 container">
 
       <h6>
         — Why Outsource your talent acquisition?
       </h6>
 
-      <h2>
+      <h2 class="mt-4 max-w-screen-sm">
         We’ll take the strain out of growing your team, at an affordable cost.
       </h2>
 
@@ -70,15 +70,15 @@
 
     </div>
 
-    <div class="text-center pb-20">
+    <div class="text-center pb-48">
       <h3>
         If any of these scenarios sound familiar, we can help.
       </h3>
-      <h4 class="text-gray-500">
+      <h4 class="text-gray-600">
         Get access to Talent Acquisition for a fixed monthly fee.
       </h4>
 
-      <AppButton class="mt-12 primary" msg="See Pricing"/>
+      <AppButton class="mt-8 primary" msg="See Pricing"/>
     </div>
 
   </div>

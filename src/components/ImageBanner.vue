@@ -1,50 +1,26 @@
 <template>
-  <div class="image-container" :src="image"
-  >
-    <img class="image" src="@/assets/images/banner-image.png"/>
-    <h2 class="text-center py-12">
+  <div class="backgroundImage relative" :style="{ backgroundImage: `url( ${Image} )` }">
+    <h2 class="text-center relative z-10 py-12 lg:py-32 bg-regal-blue bg-opacity-75 px-8">
       We focus on the fit to your business in every way.
     </h2>
   </div>
 </template>
 
 <script>
+import Image from "@/assets/images/banner-image.png"
 
 export default {
   name: 'ImageBanner',
-  data() {
-    return {
-      image: { backgroundImage: "url('/images/banner-image.png')" }
-    };
-  }
+  data : () => ({
+    Image
+  })
 }
 </script>
 
 <style scoped>
-.image-container {
-  display: inline-block;
-  overflow: hidden;
+.backgroundImage {
   position: relative;
-  width: 100%;
-  height: 344px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.image-container:after {
-  content: '';
-  background: rgba(198,215,228,0.8);
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-}
-
-.image {
-  pointer-events: none;
-  position: absolute;
-  width: 100%;
-  z-index: -1;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 </style>

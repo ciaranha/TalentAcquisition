@@ -1,11 +1,12 @@
 <template>
   <div class="bg-gray-100">
 
-    <div class="pt-20 pb-20 container-wide mx-auto">
+    <div class="pt-24 pb-24 container-wide mx-auto">
       <h6>
         —  Starter Package
       </h6>
-      <h2>
+
+      <h2 class="mt-2 max-w-screen-sm">
         Everything you need for a fixed fee.
       </h2>
 
@@ -67,15 +68,15 @@
       </div>
     </div>
 
-    <div class="text-center pb-20">
+    <div class="text-center pb-24">
       <h3>
-        If any of these scenarios sound familiar, we can help.
+        Get Started from €1,499
       </h3>
-      <h4 class="text-gray-500">
-        Get access to Talent Acquisition for a fixed monthly fee.
+      <h4 class="text-gray-600">
+        Access all of these services for a fixed monthly price.
       </h4>
 
-      <AppButton class="mt-12 primary" msg="See Pricing"/>
+      <AppButton class="mt-10 primary" msg="Get Started Now"/>
     </div>
 
   </div>

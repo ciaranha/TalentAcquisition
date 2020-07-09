@@ -1,10 +1,15 @@
 @tailwind base;
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+
 h1 {
-  @apply text-4xl font-bold leading-tight;
+  @apply font-bold leading-tight;
+  font-size: 40px;
 }
 h2 {
-  @apply text-3xl font-bold mb-4;
+  @apply font-bold mb-4 leading-tight;
+  font-size: 32px;
 }
 h3 {
   @apply text-2xl font-bold;
@@ -13,11 +18,11 @@ h4 {
   @apply text-xl;
 }
 h6 {
-  @apply uppercase text-sm text-gray-500;
+  @apply uppercase font-medium text-xs text-gray-500 tracking-wider;
 }
 
-a {
-  @apply text-teal-500;
+a:hover {
+	@apply text-keppel-600;
 }
 
 @tailwind components;
@@ -38,15 +43,15 @@ a {
 }
 
 .primary {
-  @apply bg-teal-500 text-white px-5 py-3 rounded;
+  @apply font-medium bg-keppel-500 text-white px-6 py-4 rounded;
 }
 
 .secondary {
-  @apply bg-gray-400 text-black px-5 py-3 rounded;
+  @apply font-medium bg-regal-blue text-black px-6 py-4 rounded;
 }
 
 .tertiary {
-  @apply bg-gray-100 text-black px-5 py-3 rounded;
+  @apply font-medium bg-gray-100 text-black px-6 py-4 rounded;
 }
 
 @tailwind utilities;
