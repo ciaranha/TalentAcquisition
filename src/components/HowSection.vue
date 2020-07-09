@@ -1,12 +1,13 @@
 <template>
-  <div class="bg-white">
+  <div id="how-it-works" class="bg-white">
 
     <div class="pt-10 pb-20 container">
 
-      <div class="grid sm:grid-cols-1 lg:grid-cols-2 gap-4 mt-20">
-        <img src="@/assets/images/vision-values.svg"/>
-        <div class="align-center flex flex-col justify-center">
-          <h2>
+      <div class="md:flex flex-row sm:flex-col md:flex-row lg:flex-row xl:flex-row mt-20">
+        <img class="retina" src="@/assets/images/vision-values.svg"/>
+
+        <div class="md:ml-12 align-center flex flex-col justify-center">
+          <h2 class="mt-8">
             A modern recruitment strategy.
           </h2>
           <p class="text-gray-600">
@@ -15,22 +16,24 @@
         </div>
       </div>
 
-      <div class="grid sm:grid-cols-1 lg:grid-cols-2 gap-4 mt-20">
-        <div class="align-center flex flex-col justify-center">
-          <h2>
+      <div class="md:flex flex-row sm:flex-col md:flex-row-reverse lg:flex-row-reverse xl:flex-row-reverse mt-20">
+        <img class="retina" src="@/assets/images/candidate-expertise.png"/>
+
+        <div class="md:mr-12 align-center flex flex-col justify-center">
+          <h2 class="mt-8">
             Exceptional candidate expertise.
           </h2>
           <p class="text-gray-600">
             Our deep routed industry knowledge and experience will allow for the best candidate experience throughout the process - ensuring your business has the best opportunity to get the best candidates at a cost that feels right.
           </p>
         </div>
-        <img class="justify-self-end" src="@/assets/images/candidate-expertise.png"/>
       </div>
 
-      <div class="grid sm:grid-cols-1 lg:grid-cols-2 gap-4 mt-20">
-        <img src="@/assets/images/day-job.png"/>
-        <div class="align-center flex flex-col justify-center">
-          <h2>
+      <div class="md:flex flex-row sm:flex-col md:flex-row lg:flex-row xl:flex-row mt-20">
+        <img class="retina" src="@/assets/images/day-job.png"/>
+
+        <div class="md:ml-12 align-center flex flex-col justify-center">
+          <h2 class="mt-8">
             Allowing you to get on with your day job.
           </h2>
           <p class="text-gray-600">
@@ -51,9 +54,7 @@ export default {
 </script>
 
 <style scoped>
-@media screen and (min-width: 1024px) {
-  .justify-self-end {
-    justify-self: end;
-  }
+.retina {
+  max-width: 50%;
 }
 </style>

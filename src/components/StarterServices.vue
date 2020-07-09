@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-100">
+  <div id="our-services" class="bg-gray-100">
 
     <div class="pt-24 pb-24 container-wide mx-auto">
       <h6>

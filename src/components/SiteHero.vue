@@ -8,8 +8,8 @@
       Get Talent Acquisition for a fixed monthly fee, a fraction of the cost of a full-time resource. We become an extension of your business that you can leverage when you need it.
     </p>
 
-    <AppButton class="mt-12 primary" msg="Scedule a call"/>
-    <AppButton class="mt-12 ml-2 tertiary" msg="Learn more" />
+    <AppButton class="mt-12 primary" link="/about" msg="Scedule a call"/>
+    <AppButton class="mt-12 ml-2 tertiary" link="#why-us" msg="Learn more" />
   </div>
 </template>
 

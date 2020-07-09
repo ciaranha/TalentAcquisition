@@ -1,14 +1,20 @@
 <template>
-  <div class="bg-gray-100 -my-20">
+  <div id="why-us" class="bg-gray-100 -my-20">
     <div class="pt-48 pb-20 container">
 
-      <h6>
-        — Why Outsource your talent acquisition?
-      </h6>
+      <div class="relative inline-block">
+        <h6>
+          — Why Outsource your talent acquisition?
+        </h6>
 
-      <h2 class="mt-4 max-w-screen-sm">
-        We’ll take the strain out of growing your team, at an affordable cost.
-      </h2>
+        <h2 class="mt-4 max-w-screen-sm">
+          We’ll take the strain out of growing your team, at an affordable cost.
+        </h2>
+
+        <div class="absolute top-0 right-0 lg:mt-10 md:mt-20 lg:-mr-16">
+          <img src="@/assets/images/penmarks/squiggle0.svg"/>
+        </div>
+      </div>
 
       <div class="grid sm:grid-cols-1 lg:grid-cols-2 gap-4 mt-10">
 

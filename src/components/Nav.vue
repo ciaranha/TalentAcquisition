@@ -10,13 +10,13 @@
     </div>
     <div v-bind:class="{'hidden': !showMenu, 'flex': showMenu}" class="w-full block flex-end lg:flex lg:items-center lg:w-auto">
       <div class="text-sm lg:flex-end">
-        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
+        <a href="#why-us" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
           Why us
         </a>
-        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2 mr-2">
+        <a href="#how-it-works" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
           How it works
         </a>
-        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2 mr-2">
+        <a href="#our-services" class="block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
           Our Services
         </a>
       </div>

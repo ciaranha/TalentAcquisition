@@ -4,6 +4,9 @@ module.exports = {
       'sans': ['Inter', 'Sans-serif']
     },
     extend: {
+      opacity: {
+        '90': '0.90'
+      },
       colors: {
         'gray': {
           100: '#F5F4F5',

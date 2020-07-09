@@ -21,6 +21,10 @@ h6 {
   @apply uppercase font-medium text-xs text-gray-500 tracking-wider;
 }
 
+.btn:hover {
+  color: inherit;
+}
+
 a:hover {
 	@apply text-keppel-600;
 }
@@ -44,6 +48,10 @@ a:hover {
 
 .primary {
   @apply font-medium bg-keppel-500 text-white px-6 py-4 rounded;
+}
+
+.primary:hover {
+  @apply text-white;
 }
 
 .secondary {

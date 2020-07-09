@@ -1,14 +1,15 @@
 <template>
-  <button>
+  <a class="btn inline-block" :href="link">
     {{ msg }}
-  </button>
+  </a>
 </template>
 
 <script>
 export default {
   name: 'AppButton',
   props: {
-    msg: String
+    msg: String,
+    link: String
   }
 }
 </script>
