@@ -3,7 +3,10 @@
     <div class="grid sm:grid-cols-1 lg:grid-cols-4 gap-4 mt-20 mb-20">
 
       <div>
-        Talent
+        <img src="@/assets/images/talent-acquisition-logo.svg"/>
+        <p class="text-gray-500 mt-4 mr-4 text-sm">
+          We focus on attracting your talent, so you can focus on inspiring them.
+        </p>
       </div>
 
       <div>
