@@ -21,13 +21,13 @@
     </div>
     <div v-bind:class="{'hidden': !showMenu, 'flex': showMenu}" class="justify-end w-full block flex-end lg:flex lg:items-center lg:w-auto">
       <div class="">
-        <a href="#why-us" class="text-right block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
+        <a href="#why-us" class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
           Why us
         </a>
-        <a href="#how-it-works" class="text-right block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
+        <a href="#how-it-works" class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
           How it works
         </a>
-        <a href="#our-services" class="text-right block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
+        <a href="#our-services" class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
           Our Services
         </a>
       </div>

@@ -7,6 +7,12 @@
         <p class="text-gray-500 mt-4 mr-4 text-sm">
           We focus on attracting your talent, so you can focus on inspiring them.
         </p>
+        <p class="text-gray-400 mt-8 mr-4 text-xs">
+          TalentAcquisition.ie © 2020
+        </p>
+        <p class="text-gray-400 mt-2 mr-4 text-xs">
+          Site by <a href="https://ciaran.design" target="_blank">Ciaran.Design</a>
+        </p>
       </div>
 
       <div class="mt-8">
@@ -21,7 +27,11 @@
       <div class="mt-8">
         <h6 class="md:ml-2 mb-4 pb-2 border-b-2 border-gray-100">Company</h6>
         <ul>
-          <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="" target="_blank" rel="noopener">Contact us</a></li>
+          <li>
+            <a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="mailto:Gavin.fox@martinsenmayer.com" target="_blank" rel="noopener">
+            Contact us
+            </a>
+          </li>
           <li>
             <a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="https://www.notion.so/Terms-Privacy-Policy-a916e505eb31423db2d69edf84bc0847" target="_blank" rel="noopener">
               Terms &amp; Privacy
