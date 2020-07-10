@@ -11,8 +11,8 @@
     "core-js": "^3.6.5",
     "tailwindcss": "^1.4.6",
     "vue": "^2.6.11",
-    "vue-analytics": "^5.22.1",
-    "vue-drift": "^2.0.2"
+    "vue-drift": "^2.0.2",
+    "vue-gtag": "^1.7.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",

@@ -38,7 +38,9 @@ export default {
   },
   methods: {
     track () {
-      this.$ga.page('/')
+      this.$gtag.pageview({
+        page_path: '/',
+      })
     }
   }
 }
