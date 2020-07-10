@@ -76,7 +76,7 @@
 
     </div>
 
-    <div class="text-center pb-48">
+    <div class="container sm:text-left md:text-center pb-48">
       <h3>
         If any of these scenarios sound familiar, we can help.
       </h3>
@@ -84,7 +84,7 @@
         Get access to Talent Acquisition for a fixed monthly fee.
       </h4>
 
-      <AppButton class="mt-8 primary" msg="See Pricing"/>
+      <AppButton class="mt-8 primary" link="#our-services" msg="See Services &amp; Pricing"/>
     </div>
 
   </div>

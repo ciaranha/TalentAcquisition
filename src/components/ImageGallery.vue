@@ -40,4 +40,9 @@ export default {
   width: 282px;
   margin-right: 16px;
 }
+@media screen and (max-width: 780px) {
+  .image-container {
+    width: 120px;
+  }
+}
 </style>

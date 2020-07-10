@@ -51,15 +51,27 @@
       </div>
     </div>
 
-    <div class="text-center pb-24">
+    <div class="container sm:text-left md:text-center pb-24">
       <h3>
         Chat with us today
       </h3>
       <h4 class="text-gray-600">
-        We can setup a call to discuss your talent acquisition needs.
+        We can arrange a call to discuss your needs.
       </h4>
 
-      <AppButton class="mt-10 secondary" msg="Schedule a Call"/>
+      <div class="flex md:justify-center">
+        <AppButton
+          class="mt-10 primary"
+          link="https://talentacquisitionie.typeform.com/to/dKDMZE5W"
+          msg="Get Started"
+          target="_blank"
+        />
+        <AppButton
+          class="mt-10 tertiary ml-2"
+          link="mailto:info@talentacquisition.ie"
+          msg="Email us"
+        />
+      </div>
     </div>
 
   </div>

@@ -68,7 +68,7 @@
       </div>
     </div>
 
-    <div class="text-center pb-24">
+    <div class="container sm:text-left md:text-center pb-24">
       <h3>
         Get Started from €1,499
       </h3>
@@ -76,7 +76,19 @@
         Access all of these services for a fixed monthly price.
       </h4>
 
-      <AppButton class="mt-10 primary" msg="Get Started Now"/>
+      <div class="flex md:justify-center">
+        <AppButton
+          class="mt-10 primary"
+          link="https://talentacquisitionie.typeform.com/to/dKDMZE5W"
+          msg="Get Started"
+          target="_blank"
+        />
+        <AppButton
+          class="mt-10 secondary ml-2"
+          link="mailto:info@talentacquisition.ie"
+          msg="Email us"
+        />
+      </div>
     </div>
 
   </div>

@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Nav class="mb-12" />
+    <Nav />
     <SiteHero msg="We focus on attracting your talent, so you can focus on inspiring them."/>
     <ImageGallery />
     <WhySection />
