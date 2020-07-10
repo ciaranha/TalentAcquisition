@@ -35,6 +35,11 @@ export default {
     ScaleServices,
     ImageBanner,
     SiteFooter
+  },
+  methods: {
+    track () {
+      this.$ga.page('/')
+    }
   }
 }
 </script>
