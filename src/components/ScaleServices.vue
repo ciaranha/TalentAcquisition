@@ -1,7 +1,7 @@
 <template>
   <div class="bg-white">
 
-    <div class="pt-24 pb-24 container-wide mx-auto">
+    <div class="pt-24 pb-20 container-wide mx-auto">
       <h6>
         —  Room to grow
       </h6>
@@ -14,7 +14,7 @@
 
         <ServiceCard
           title="CRM advice"
-          body="We can advice you on the most suitable CRM for your needs."
+          body="We can advise you on the most suitable CRM for your needs."
           :image="require('@/assets/images/icons/crm-advice.svg')"
         />
 
@@ -26,7 +26,7 @@
 
         <ServiceCard
           title="Social media consulting"
-          body="Make sure you're presenting the right image on social media."
+          body="We'll make sure you're presenting the right image on social media."
           :image="require('@/assets/images/icons/social-media.svg')"
         />
 
@@ -51,11 +51,11 @@
       </div>
     </div>
 
-    <div class="container sm:text-left md:text-center pb-24">
+    <div class="container sm:text-left md:text-center pb-32">
       <h3>
         Chat with us today
       </h3>
-      <h4 class="text-gray-600">
+      <h4 class="mt-2 text-gray-600">
         We can arrange a call to discuss your needs.
       </h4>
 

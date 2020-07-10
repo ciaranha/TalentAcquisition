@@ -11,7 +11,7 @@
             A modern recruitment strategy.
           </h2>
           <p class="text-gray-600">
-            We'll design and deliver a tailored recruitment strategy that delivers a personalised candidate experience - ensuring your Voice, Values, Purpose and your People are at the core.
+            We'll design and deliver a tailored recruitment strategy that delivers a personalised candidate experience - ensuring your Voice, Values, Purpose and People are at the core.
           </p>
         </div>
       </div>
@@ -24,7 +24,7 @@
             Exceptional candidate expertise.
           </h2>
           <p class="text-gray-600">
-            Our deep routed industry knowledge and experience will allow for the best candidate experience throughout the process - ensuring your business has the best opportunity to get the best candidates at a cost that feels right.
+            Our deep rooted industry knowledge and experience will allow for the best candidate experience throughout the process - ensuring your business has the best opportunity to get the best candidates at a cost that feels right.
           </p>
         </div>
       </div>

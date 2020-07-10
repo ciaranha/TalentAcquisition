@@ -1,7 +1,7 @@
 <template>
   <div id="our-services" class="bg-gray-100">
 
-    <div class="pt-24 pb-24 container-wide mx-auto">
+    <div class="pt-24 pb-20 container-wide mx-auto">
       <h6>
         —  Starter Package
       </h6>
@@ -13,7 +13,7 @@
       <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4 mt-10">
         <ServiceCard
           title="Employee branding"
-          body="Understanding who you are, better allows us to tell your employee value proposition."
+          body="Understanding who you are allows us to convey your employee value proposition."
           :image="require('@/assets/images/icons/employee-branding.svg')"
         />
 
@@ -25,7 +25,7 @@
 
         <ServiceCard
           title="Inbound sourcing"
-          body="We'll respond and interview all your inbound potential candidates."
+          body="We'll respond to and interview all your inbound potential candidates."
           :image="require('@/assets/images/icons/inbound-sourcing.svg')"
         />
 
@@ -43,7 +43,7 @@
 
         <ServiceCard
           title="Interview scheduling"
-          body="We'll organised & schedule all interviews through effective diary management."
+          body="We'll organise &amp; schedule all interviews through effective diary management."
           :image="require('@/assets/images/icons/interview-scheduling.svg')"
         />
 
@@ -55,7 +55,7 @@
 
         <ServiceCard
           title="Employee onboarding"
-          body="Offer management (Offer, Referencing and on-boarding)."
+          body="We'll take care of offer management (Offer, Referencing and on-boarding)."
           :image="require('@/assets/images/icons/employee-onboarding.svg')"
         />
 
@@ -68,11 +68,11 @@
       </div>
     </div>
 
-    <div class="container sm:text-left md:text-center pb-24">
+    <div class="container sm:text-left md:text-center pb-32">
       <h3>
         Get Started from €1,499
       </h3>
-      <h4 class="text-gray-600">
+      <h4 class="mt-2 text-gray-600">
         Access all of these services for a fixed monthly price.
       </h4>
 

@@ -80,7 +80,8 @@
       <h3>
         If any of these scenarios sound familiar, we can help.
       </h3>
-      <h4 class="text-gray-600">
+
+      <h4 class="mt-2 text-gray-600">
         Get access to Talent Acquisition for a fixed monthly fee.
       </h4>
 
