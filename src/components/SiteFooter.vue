@@ -37,6 +37,9 @@
               Terms &amp; Privacy
             </a>
           </li>
+          <li>
+            <a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="javascript:window.Metomic('ConsentManager:show')">Manage cookies</a>
+          </li>
         </ul>
       </div>
 <!--
