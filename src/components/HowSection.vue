@@ -17,7 +17,7 @@
       </div>
 
       <div class="md:flex flex-row sm:flex-col md:flex-row-reverse lg:flex-row-reverse xl:flex-row-reverse mt-20">
-        <img class="retina" src="@/assets/images/candidate-expertise.png"/>
+        <img class="retina" src="@/assets/images/candidate-expertise.jpg"/>
 
         <div class="md:mr-12 align-center flex flex-col justify-center">
           <h2 class="mt-8">
@@ -30,7 +30,7 @@
       </div>
 
       <div class="md:flex flex-row sm:flex-col md:flex-row lg:flex-row xl:flex-row mt-20">
-        <img class="retina" src="@/assets/images/day-job.png"/>
+        <img class="retina" src="@/assets/images/day-job.jpg"/>
 
         <div class="md:ml-12 align-center flex flex-col justify-center">
           <h2 class="mt-8">

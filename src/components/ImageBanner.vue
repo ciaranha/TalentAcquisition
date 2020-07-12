@@ -23,7 +23,7 @@
 </template>
 
 <script>
-import Image from "@/assets/images/banner-image.png"
+import Image from "@/assets/images/banner-image.jpg"
 
 export default {
   name: 'ImageBanner',
