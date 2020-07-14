@@ -36,7 +36,7 @@
 
             <router-link
               class="text-sm rounded py-1 px-2 hover:bg-gray-100 block"
-              to="/terms-privacy#pp"
+              to="/terms-privacy"
             >
               Terms & Privacy
               <span class="sr-only">(current)</span>

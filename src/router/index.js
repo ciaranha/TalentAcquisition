@@ -6,6 +6,7 @@ import TermsPrivacy from './../components/TermsPrivacy.vue'
 Vue.use(Router)
 
 export default new Router({
+    mode: 'history',
     routes: [
       { path: '/', component: HomePage },
       { path: '/terms-privacy', component: TermsPrivacy }
