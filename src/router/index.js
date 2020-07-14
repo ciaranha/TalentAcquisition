@@ -10,5 +10,8 @@ export default new Router({
     routes: [
       { path: '/', component: HomePage },
       { path: '/terms-privacy', component: TermsPrivacy }
-    ]
+    ],
+    scrollBehavior() {
+      document.getElementById('app').scrollIntoView();
+    }
 })

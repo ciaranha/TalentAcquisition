@@ -10,7 +10,7 @@
                 <strong>
                    <span data-custom-class="subtitle">
                       Last updated
-                      <bdt class="question">July 14, 2020</bdt>
+                      <span class="question">July 14, 2020</span>
                       &nbsp;
                    </span>
                 </strong>
@@ -24,14 +24,14 @@
              <span style="color: rgb(89, 89, 89);">
                 <span data-custom-class="body_text">
                    Thank you for visiting our site at
-                   <bdt class="question">TalentAcquisition</bdt>
-                   <bdt class="block-component"></bdt>
+                   <span class="question">TalentAcquisition</span>
+                   <span class="block-component"></span>
                    (“
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    company
-                   <bdt class="statement-end-if-in-editor"></bdt>
+                   <span class="statement-end-if-in-editor"></span>
                    ”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at
-                   <bdt class="question">Gavin.fox@martinsenmayer.com</bdt>
+                   <span class="question">Gavin.fox@martinsenmayer.com</span>
                    .<br><br>
                 </span>
              </span>
@@ -40,18 +40,18 @@
              <span style="color: rgb(89, 89, 89);">
                 <span data-custom-class="body_text">
                    When you visit our
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    website
-                   <bdt class="question"><a href="https://talentacquisition.ie" target="_blank" data-custom-class="link">https://talentacquisition.ie</a></bdt>
+                   <span class="question"><a href="https://talentacquisition.ie" target="_blank" data-custom-class="link">https://talentacquisition.ie</a></span>
                    ,
-                   <bdt class="statement-end-if-in-editor"></bdt>
-                   <bdt class="block-component"></bdt>
+                   <span class="statement-end-if-in-editor"></span>
+                   <span class="block-component"></span>
                    and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    Sites
-                   <bdt class="statement-end-if-in-editor"></bdt>
-                   <bdt class="block-component"></bdt>
-                   <bdt class="block-component"></bdt>
+                   <span class="statement-end-if-in-editor"></span>
+                   <span class="block-component"></span>
+                   <span class="block-component"></span>
                    and our services.
                 </span>
              </span>
@@ -61,15 +61,15 @@
              <span style="color: rgb(89, 89, 89);">
                 <span data-custom-class="body_text">
                    This privacy policy applies to all information collected through our
-                   <bdt class="block-component"></bdt>
-                   <bdt class="forloop-component"></bdt>
-                   <bdt class="question">website</bdt>
-                   <bdt class="forloop-component"></bdt>
+                   <span class="block-component"></span>
+                   <span class="forloop-component"></span>
+                   <span class="question">website</span>
+                   <span class="forloop-component"></span>
                    (such as
-                   <bdt class="question"><a href="https://talentacquisition.ie" target="_blank" data-custom-class="link">https://talentacquisition.ie</a></bdt>
+                   <span class="question"><a href="https://talentacquisition.ie" target="_blank" data-custom-class="link">https://talentacquisition.ie</a></span>
                    ),
-                   <bdt class="statement-end-if-in-editor"></bdt>
-                   <bdt class="block-component"></bdt>
+                   <span class="statement-end-if-in-editor"></span>
+                   <span class="block-component"></span>
                    and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "<strong>Sites</strong>").&nbsp;
                 </span>
              </span>
@@ -80,14 +80,14 @@
           <p style="font-size:15px;">
              <a data-custom-class="link" href="#infocollect"><span style="color: rgb(89, 89, 89);">1. WHAT INFORMATION DO WE COLLECT?</span></a>
              <span style="color: rgb(89, 89, 89);">
-                <bdt class="block-component"></bdt>
+                <span class="block-component"></span>
              </span>
           </p>
           <p style="font-size:15px;">
              <a data-custom-class="link" href="#infouse"><span style="color: rgb(89, 89, 89);">2. HOW DO WE USE YOUR INFORMATION?</span></a>
              <span style="color: rgb(89, 89, 89);">
                 <span style="color: rgb(89, 89, 89);">
-                   <bdt class="statement-end-if-in-editor"></bdt>
+                   <span class="statement-end-if-in-editor"></span>
                 </span>
              </span>
           </p>
@@ -96,12 +96,12 @@
              <span style="color: rgb(89, 89, 89);">
                 &nbsp;
                 <span style="color: rgb(89, 89, 89);">
-                   <bdt class="block-component"><span data-custom-class="body_text"></span></bdt>
+                   <span class="block-component"><span data-custom-class="body_text"></span></span>
                 </span>
              </span>
              <span style="font-size: 15px; color: rgb(89, 89, 89);">
                 &nbsp;
-                <bdt class="block-component"></bdt>
+                <span class="block-component"></span>
                 &nbsp;
              </span>
           </p>
@@ -113,13 +113,13 @@
              <a data-custom-class="link" href="#infosafe"><span style="color: rgb(89, 89, 89);">6. HOW DO WE KEEP YOUR INFORMATION SAFE?</span></a>
              <span style="color: rgb(89, 89, 89);">
                 &nbsp;
-                <bdt class="block-component"></bdt>
+                <span class="block-component"></span>
                 &nbsp;
              </span>
           </p>
           <p style="font-size:15px;">
              <a data-custom-class="link" href="#infominors"><span style="color: rgb(89, 89, 89);">7. DO WE COLLECT INFORMATION FROM MINORS?</span></a>
-             <bdt class="statement-end-if-in-editor"></bdt>
+             <span class="statement-end-if-in-editor"></span>
              &nbsp;
           </p>
           <p style="font-size:15px;"><a data-custom-class="link" href="#privacyrights"><span style="color: rgb(89, 89, 89);">8. WHAT ARE YOUR PRIVACY RIGHTS?</span></a></p>
@@ -161,11 +161,11 @@
                 <span style="color: rgb(89, 89, 89);">
                    <span data-custom-class="body_text">
                       We use personal information collected via our
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                       Sites
-                      <bdt class="statement-end-if-in-editor"></bdt>
-                      <bdt class="block-component"></bdt>
-                      <bdt class="block-component"></bdt>
+                      <span class="statement-end-if-in-editor"></span>
+                      <span class="block-component"></span>
+                      <span class="block-component"></span>
                       for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests ("Business Purposes"), in order to enter into or perform a contract with you ("Contractual"), with your consent ("Consent"), and/or for compliance with our legal obligations ("Legal Reasons"). We indicate the specific processing grounds we rely on next to each purpose listed below.&nbsp;
                    </span>
                 </span>
@@ -177,14 +177,14 @@
                 <span style="color: rgb(89, 89, 89);">
                    <span data-custom-class="body_text">
                       We use the information we collect or receive:
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                       &nbsp;
                    </span>
                 </span>
              </span>
-             <bdt class="block-component"></bdt>
-             <bdt class="block-component"></bdt>
-             <bdt class="block-component"></bdt>
+             <span class="block-component"></span>
+             <span class="block-component"></span>
+             <span class="block-component"></span>
              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
           </p>
           <li>
@@ -193,11 +193,11 @@
                    <strong><span data-custom-class="body_text">Fulfill and manage your orders.</span></strong>
                    <span data-custom-class="body_text">
                       &nbsp;We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                       Sites
-                      <bdt class="statement-end-if-in-editor"></bdt>
-                      <bdt class="block-component"></bdt>
-                      <bdt class="block-component"></bdt>
+                      <span class="statement-end-if-in-editor"></span>
+                      <span class="block-component"></span>
+                      <span class="block-component"></span>
                       .
                    </span>
                    <span style="font-size: 15px;">
@@ -209,15 +209,15 @@
                                      <span style="font-size: 15px;">
                                         <span style="color: rgb(89, 89, 89);">
                                            <span data-custom-class="body_text">
-                                              <bdt class="statement-end-if-in-editor"></bdt>
-                                              <bdt class="block-component"></bdt>
-                                              <bdt class="block-component"></bdt>
-                                              <bdt class="block-component"></bdt>
-                                              <bdt class="block-component"></bdt>
-                                              <bdt class="block-component"></bdt>
-                                              <bdt class="block-component"></bdt>
-                                              <bdt class="block-component"></bdt>
-                                              <bdt class="block-component"></bdt>
+                                              <span class="statement-end-if-in-editor"></span>
+                                              <span class="block-component"></span>
+                                              <span class="block-component"></span>
+                                              <span class="block-component"></span>
+                                              <span class="block-component"></span>
+                                              <span class="block-component"></span>
+                                              <span class="block-component"></span>
+                                              <span class="block-component"></span>
+                                              <span class="block-component"></span>
                                               &nbsp;
                                            </span>
                                         </span>
@@ -237,11 +237,11 @@
                 <strong><span data-custom-class="body_text">For other Business Purposes.</span></strong>
                 <span data-custom-class="body_text">
                    &nbsp;We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    Sites
-                   <bdt class="statement-end-if-in-editor"></bdt>
-                   <bdt class="block-component"></bdt>
-                   <bdt class="block-component"></bdt>
+                   <span class="statement-end-if-in-editor"></span>
+                   <span class="block-component"></span>
+                   <span class="block-component"></span>
                    , products, services, marketing and your experience.
                 </span>
              </span>
@@ -263,7 +263,7 @@
              <span style="font-size: 15px;">
                 <span style="color: rgb(89, 89, 89);">
                    <span data-custom-class="body_text">
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                       &nbsp;
                    </span>
                 </span>
@@ -277,7 +277,7 @@
                    <strong><span data-custom-class="body_text">Business Transfers.</span></strong>
                    <span data-custom-class="body_text">
                       &nbsp;We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                       &nbsp;
                    </span>
                 </span>
@@ -291,26 +291,26 @@
                    <strong><span data-custom-class="body_text">Third-Party Advertisers.</span></strong>
                    <span data-custom-class="body_text">
                       &nbsp;We may use third-party advertising companies to serve ads when you visit the
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                       Sites
-                      <bdt class="statement-end-if-in-editor"></bdt>
-                      <bdt class="block-component"></bdt>
-                      <bdt class="block-component"></bdt>
+                      <span class="statement-end-if-in-editor"></span>
+                      <span class="block-component"></span>
+                      <span class="block-component"></span>
                       . These companies may use information about your visits to our Website(s) and other websites that are contained in web cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you.
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                       See our Cookie Policy:
-                      <bdt class="block-component"></bdt>
-                      <bdt class="question"><a class="text-sm" href="javascript:window.Metomic('ConsentManager:show')">Manage cookies</a></bdt>
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
+                      <span class="question"><a class="text-sm" href="javascript:window.Metomic('ConsentManager:show')">Manage cookies</a></span>
+                      <span class="block-component"></span>
                       for further information.
                    </span>
                    <span style="font-size: 15px;">
                       <span style="color: rgb(89, 89, 89);">
                          <span data-custom-class="body_text">
                             &nbsp;
-                            <bdt class="statement-end-if-in-editor"></bdt>
-                            <bdt class="statement-end-if-in-editor"></bdt>
-                            <bdt class="block-component"></bdt>
+                            <span class="statement-end-if-in-editor"></span>
+                            <span class="statement-end-if-in-editor"></span>
+                            <span class="block-component"></span>
                             &nbsp;
                          </span>
                       </span>
@@ -318,14 +318,14 @@
                    </span>
                    &nbsp;
                 </span>
-                <bdt class="block-component"></bdt>
+                <span class="block-component"></span>
                 &nbsp;
              </span>
              <span style="font-size: 15px;">
                 <span style="color: rgb(89, 89, 89);">
                    <span data-custom-class="body_text">
-                      <bdt class="block-component"></bdt>
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
+                      <span class="block-component"></span>
                    </span>
                    &nbsp;
                 </span>
@@ -334,14 +334,14 @@
           </li>
           <div>
              <span style="color: rgb(89, 89, 89);">
-                <bdt class="block-component"><span data-custom-class="body_text"></span></bdt>
+                <span class="block-component"><span data-custom-class="body_text"></span></span>
              </span>
              <span style="color: rgb(89, 89, 89); font-size: 15px;">
                 <span style="font-size: 15px;">
                    <span style="color: rgb(89, 89, 89);">
                       <span style="font-size: 15px;">
                          <span style="color: rgb(89, 89, 89);">
-                            <bdt class="block-component"><span data-custom-class="heading_1"></span></bdt>
+                            <span class="block-component"><span data-custom-class="heading_1"></span></span>
                          </span>
                       </span>
                    </span>
@@ -355,16 +355,16 @@
              <span style="color: rgb(89, 89, 89); font-size: 15px;">
                 <span data-custom-class="body_text">
                    We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    :
-                   <bdt class="question">
+                   <span class="question">
                      <a class="text-sm" href="javascript:window.Metomic('ConsentManager:show')">Manage cookies</a>
-                   </bdt>
+                   </span>
                 </span>
              </span>
              <span data-custom-class="body_text">
                 <span style="font-size: 15px; color: rgb(89, 89, 89);">
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    .
                 </span>
                 <span style="color: rgb(89, 89, 89); font-size: 15px;">
@@ -373,10 +373,10 @@
                          <span style="font-size: 15px;">
                             <span style="color: rgb(89, 89, 89);">
                                <span data-custom-class="body_text">
-                                  <bdt class="statement-end-if-in-editor"></bdt>
-                                  <bdt class="block-component"></bdt>
-                                  <bdt class="block-component"></bdt>
-                                  <bdt class="block-component"></bdt>
+                                  <span class="statement-end-if-in-editor"></span>
+                                  <span class="block-component"></span>
+                                  <span class="block-component"></span>
+                                  <span class="block-component"></span>
                                   &nbsp;
                                </span>
                             </span>
@@ -395,7 +395,7 @@
                                   <span style="font-size: 15px;">
                                      <span style="color: rgb(89, 89, 89);">
                                         <span data-custom-class="body_text">
-                                           <bdt class="block-component"></bdt>
+                                           <span class="block-component"></span>
                                         </span>
                                         &nbsp;
                                      </span>
@@ -416,9 +416,9 @@
                 <span style="color: rgb(89, 89, 89);">
                    <span data-custom-class="body_text">
                       We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than
-                      <bdt class="block-component"></bdt>
-                      <bdt class="question">1 year</bdt>
-                      <bdt class="statement-end-if-in-editor"></bdt>
+                      <span class="block-component"></span>
+                      <span class="question">1 year</span>
+                      <span class="statement-end-if-in-editor"></span>
                       .
                    </span>
                 </span>
@@ -432,13 +432,13 @@
              <span style="color: rgb(89, 89, 89); font-size: 15px;">
                 <span data-custom-class="body_text">
                    We have implemented appropriate technical and organisational security measures designed to protect the security of any personal information we process. However, please also remember that we cannot guarantee that the internet itself is 100% secure. Although we will do our best to protect your personal information, transmission of personal information to and from our
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    Sites
-                   <bdt class="statement-end-if-in-editor"></bdt>
-                   <bdt class="block-component"></bdt>
-                   <bdt class="block-component"></bdt>
+                   <span class="statement-end-if-in-editor"></span>
+                   <span class="block-component"></span>
+                   <span class="block-component"></span>
                    is at your own risk. You should only access the services within a secure environment.
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    &nbsp;
                 </span>
              </span>
@@ -450,26 +450,26 @@
              <span style="color: rgb(89, 89, 89); font-size: 15px;">
                 <span data-custom-class="body_text">
                    We do not knowingly solicit data from or market to children under 18 years of age. By using the
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    Sites
-                   <bdt class="statement-end-if-in-editor"></bdt>
-                   <bdt class="block-component"></bdt>
-                   <bdt class="block-component"></bdt>
+                   <span class="statement-end-if-in-editor"></span>
+                   <span class="block-component"></span>
+                   <span class="block-component"></span>
                    , you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    Sites
-                   <bdt class="statement-end-if-in-editor"></bdt>
-                   <bdt class="block-component"></bdt>
-                   <bdt class="block-component"></bdt>
+                   <span class="statement-end-if-in-editor"></span>
+                   <span class="block-component"></span>
+                   <span class="block-component"></span>
                    . If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at
-                   <bdt class="block-component"></bdt>
-                   <bdt class="question">Gavin.fox@martinsenmayer.com</bdt>
-                   <bdt class="else-block"></bdt>
+                   <span class="block-component"></span>
+                   <span class="question">Gavin.fox@martinsenmayer.com</span>
+                   <span class="else-block"></span>
                    .
                 </span>
                 <span style="color: rgb(89, 89, 89); font-size: 15px;">
                    <span data-custom-class="body_text">
-                      <bdt class="statement-end-if-in-editor"></bdt>
+                      <span class="statement-end-if-in-editor"></span>
                       &nbsp;
                    </span>
                 </span>
@@ -484,8 +484,8 @@
              <span style="font-size: 15px;"><span style="color: rgb(89, 89, 89);"><span data-custom-class="body_text">If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here:</span></span>&nbsp;</span><span data-custom-class="body_text"><span style="color: rgb(48, 48, 241);"><a data-custom-class="link" href="http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm" target="_blank"><span style="font-size: 15px;">http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm</span></a>&nbsp;</span></span>
              <span style="font-size: 15px;">
                 <span style="color: rgb(89, 89, 89);">
-                   <bdt class="block-component"><span data-custom-class="body_text"></span></bdt>
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"><span data-custom-class="body_text"></span></span>
+                   <span class="block-component"></span>
                 </span>
              </span>
              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -496,17 +496,17 @@
                    <strong><u><span data-custom-class="body_text">Cookies and similar technologies:</span></u>&nbsp;</strong>
                    <span data-custom-class="body_text">
                       &nbsp;Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                       Sites
-                      <bdt class="statement-end-if-in-editor"></bdt>
-                      <bdt class="block-component"></bdt>
-                      <bdt class="block-component"></bdt>
+                      <span class="statement-end-if-in-editor"></span>
+                      <span class="block-component"></span>
+                      <span class="block-component"></span>
                       . To opt-out of interest-based advertising by advertisers on our
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                       Sites
-                      <bdt class="statement-end-if-in-editor"></bdt>
-                      <bdt class="block-component"></bdt>
-                      <bdt class="block-component"></bdt>
+                      <span class="statement-end-if-in-editor"></span>
+                      <span class="block-component"></span>
+                      <span class="block-component"></span>
                       visit&nbsp;
                    </span>
                 </span>
@@ -516,18 +516,18 @@
                 <span style="color: rgb(89, 89, 89);">
                    <span data-custom-class="body_text">
                       .
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                       For further information, please see our Cookie Policy:
-                      <bdt class="question"><a href="https://talentacquisition.ie/cookie-policy" target="_blank" data-custom-class="link">https://talentacquisition.ie/cookie-policy</a></bdt>
+                      <span class="question"><a href="https://talentacquisition.ie/cookie-policy" target="_blank" data-custom-class="link">https://talentacquisition.ie/cookie-policy</a></span>
                       .
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                       <span style="font-size: 15px;">
                          <span style="color: rgb(89, 89, 89);">
                             <span style="font-size: 15px;">
                                <span style="color: rgb(89, 89, 89);">
                                   <span style="font-size: 15px;">
                                      <span style="color: rgb(89, 89, 89);">
-                                        <bdt class="statement-end-if-in-editor"></bdt>
+                                        <span class="statement-end-if-in-editor"></span>
                                      </span>
                                   </span>
                                   &nbsp;
@@ -535,7 +535,7 @@
                             </span>
                          </span>
                       </span>
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                    </span>
                 </span>
              </span>
@@ -550,23 +550,23 @@
              <span style="color: rgb(89, 89, 89); font-size: 15px;">
                 <span data-custom-class="body_text">
                    If you are under 18 years of age, reside in California, and have a registered account with the
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    Sites
-                   <bdt class="statement-end-if-in-editor"></bdt>
-                   <bdt class="block-component"></bdt>
-                   <bdt class="block-component"></bdt>
+                   <span class="statement-end-if-in-editor"></span>
+                   <span class="block-component"></span>
+                   <span class="block-component"></span>
                    , you have the right to request removal of unwanted data that you publicly post on the
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    Sites
-                   <bdt class="statement-end-if-in-editor"></bdt>
-                   <bdt class="block-component"></bdt>
-                   <bdt class="block-component"></bdt>
+                   <span class="statement-end-if-in-editor"></span>
+                   <span class="block-component"></span>
+                   <span class="block-component"></span>
                    . To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    Sites
-                   <bdt class="statement-end-if-in-editor"></bdt>
-                   <bdt class="block-component"></bdt>
-                   <bdt class="block-component"></bdt>
+                   <span class="statement-end-if-in-editor"></span>
+                   <span class="block-component"></span>
+                   <span class="block-component"></span>
                    , but please be aware that the data may not be completely or comprehensively removed from our systems.
                 </span>
              </span>
@@ -581,20 +581,20 @@
              <span style="color: rgb(89, 89, 89); font-size: 15px;">
                 <span data-custom-class="body_text">
                    If you have questions or comments about this policy, you may
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                    email us at
-                   <bdt class="question">Gavin.fox@martinsenmayer.com</bdt>
-                   <bdt class="statement-end-if-in-editor"></bdt>
+                   <span class="question">Gavin.fox@martinsenmayer.com</span>
+                   <span class="statement-end-if-in-editor"></span>
                    or by post to:
                 </span>
              </span>
           </p>
           <div>
              <span style="color: rgb(89, 89, 89);">
-                <bdt class="question"><span style="font-size: 15px;"><span data-custom-class="body_text">TalentAcquisition</span></span></bdt>
+                <span class="question"><span style="font-size: 15px;"><span data-custom-class="body_text">TalentAcquisition</span></span></span>
                 <span data-custom-class="body_text">
                    <span style="font-size: 15px;">
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                    </span>
                 </span>
              </span>
@@ -603,8 +603,8 @@
              <span data-custom-class="body_text">
                 <span style="color: rgb(89, 89, 89);">
                    <span style="font-size: 15px;">
-                      <bdt class="question">Lambay Road</bdt>
-                      <bdt class="block-component"></bdt>
+                      <span class="question">Lambay Road</span>
+                      <span class="block-component"></span>
                    </span>
                 </span>
              </span>
@@ -614,26 +614,26 @@
                 <span style="font-size: 15px;">
                    <span data-custom-class="body_text">
                       <span style="color: rgb(89, 89, 89);">
-                         <bdt class="question">Dublin</bdt>
+                         <span class="question">Dublin</span>
                          ,
-                         <bdt class="block-component"></bdt>
-                         <bdt class="question">Leinster</bdt>
-                         <bdt class="statement-end-if-in-editor"></bdt>
-                         <bdt class="question">D09TH44</bdt>
-                         <bdt class="block-component"></bdt>
+                         <span class="block-component"></span>
+                         <span class="question">Leinster</span>
+                         <span class="statement-end-if-in-editor"></span>
+                         <span class="question">D09TH44</span>
+                         <span class="block-component"></span>
                       </span>
                    </span>
-                   <bdt class="block-component"></bdt>
+                   <span class="block-component"></span>
                 </span>
              </span>
              <span data-custom-class="body_text">
                 <span style="font-size: 15px;">
-                   <bdt class="question">Ireland</bdt>
-                   <bdt class="statement-end-if-in-editor"></bdt>
+                   <span class="question">Ireland</span>
+                   <span class="statement-end-if-in-editor"></span>
                    <span data-custom-class="body_text">
                       <span style="color: rgb(89, 89, 89);">
-                         <bdt class="statement-end-if-in-editor"></bdt>
-                         <bdt class="statement-end-if-in-editor"></bdt>
+                         <span class="statement-end-if-in-editor"></span>
+                         <span class="statement-end-if-in-editor"></span>
                       </span>
                    </span>
                 </span>
@@ -641,20 +641,20 @@
              <span style="color: rgb(89, 89, 89);">
                 <span style="font-size: 15px;">
                    <span data-custom-class="body_text">
-                      <bdt class="block-component"></bdt>
+                      <span class="block-component"></span>
                    </span>
                 </span>
              </span>
-             <bdt class="block-component"><span data-custom-class="body_text"></span></bdt>
+             <span class="block-component"><span data-custom-class="body_text"></span></span>
           </div>
           <p style="font-size:15px;"><span style="color: rgb(89, 89, 89);"><br></span></p>
           <p id="contact" style="font-size:15px;"><strong><span data-custom-class="heading_1">HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?</span></strong></p>
           <div>
              <span data-custom-class="body_text">
                 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please
-                <bdt class="block-component"></bdt>
+                <span class="block-component"></span>
                 submit a request form by clicking <span style="color: rgb(48, 48, 241);"><span data-custom-class="body_text"><span style="font-size: 15px;"><a data-custom-class="link" href="https://app.termly.io/notify/6fccf353-f1c4-4965-abb3-4268265859e9" rel="noopener noreferrer" target="_blank">here</a></span></span></span>
-                <bdt class="statement-end-if-in-editor"></bdt>
+                <span class="statement-end-if-in-editor"></span>
                 . We will respond to your request within 30 days.
              </span>
           </div>
