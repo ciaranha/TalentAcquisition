@@ -12,7 +12,8 @@
     "tailwindcss": "^1.4.6",
     "vue": "^2.6.11",
     "vue-drift": "^2.0.2",
-    "vue-gtag": "^1.7.0"
+    "vue-gtag": "^1.7.0",
+    "vue-router": "^3.3.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",

@@ -1,39 +1,19 @@
 <template>
   <div id="app">
     <Nav />
-    <SiteHero msg="We focus on attracting your talent, so you can focus on inspiring them."/>
-    <ImageGallery />
-    <WhySection />
-    <HowSection />
-    <StarterServices />
-    <ScaleServices />
-    <ImageBanner />
+    <router-view/>
     <SiteFooter />
   </div>
 </template>
 
 <script>
 import Nav from './components/Nav.vue'
-import SiteHero from './components/SiteHero.vue'
-import ImageGallery from './components/ImageGallery.vue'
-import WhySection from './components/WhySection.vue'
-import HowSection from './components/HowSection.vue'
-import StarterServices from './components/StarterServices.vue'
-import ScaleServices from './components/ScaleServices.vue'
-import ImageBanner from './components/ImageBanner.vue'
 import SiteFooter from './components/SiteFooter.vue'
 
 export default {
   name: 'App',
   components: {
     Nav,
-    SiteHero,
-    ImageGallery,
-    WhySection,
-    HowSection,
-    StarterServices,
-    ScaleServices,
-    ImageBanner,
     SiteFooter
   },
   methods: {

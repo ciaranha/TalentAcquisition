@@ -33,9 +33,14 @@
             </a>
           </li>
           <li>
-            <a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="https://www.notion.so/Terms-Privacy-Policy-a916e505eb31423db2d69edf84bc0847" target="_blank" rel="noopener">
-              Terms &amp; Privacy
-            </a>
+
+            <router-link
+              class="text-sm rounded py-1 px-2 hover:bg-gray-100 block"
+              to="/terms-privacy#pp"
+            >
+              Terms & Privacy
+              <span class="sr-only">(current)</span>
+            </router-link>
           </li>
           <li>
             <a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="javascript:window.Metomic('ConsentManager:show')">Manage cookies</a>
